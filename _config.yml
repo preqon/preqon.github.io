@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: preqon.xyz 
-description: This website contains my portfolio of work inside neuroscience, artificial intellgience and neurotechnology. 
+title: preqon 
+description: This website contains my portfolio of work inside neuroscience, artificial intelligence and neurotechnology. 
