@@ -10,6 +10,13 @@ Quantification of information processing can help address large questions in neu
 
 Personally, I find the above question particularly exciting because it points to an engineering opportunity. If nature has provided a beautiful machine that stores, transfers and modifies information, why can't we build something similar? Or why can't we build a system that at least *interfaces* with nature's machines, extracting and interacting with the information stored there?
 
-Briefly, the project found
+Briefly, the project found information flows that either matched expectations inside the visual cortex or were unexpectedly homogenous between cortical layers. This points to the versatility of how information can be represented and processed across structural connections that are relatively static. We suggested that future studies in neural dynamics during tasks and behaviours can adopt our information-theoretic approach to assess when, where and how much information relevant to a task is being processed inside a recorded brain area.
 
-Here are some things I learned.
+This project gave me
+
+- A solid grasp on the fundamentals of information theory.
+- Familiarity in with neural data. Particularly Neuropixel probes (local-field potential electrodes) and spike trains.
+- Experience in statistical inference in an information theoretic context.
+- Extensive literature research. 
+- 
+- 
