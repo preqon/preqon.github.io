@@ -1,7 +1,7 @@
-remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: academic-jekyll-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
 
 title: preqon 
 description: This website contains my portfolio of work inside neuroscience, artificial intelligence and neurotechnology. 
