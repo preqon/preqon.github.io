@@ -1,7 +1,9 @@
-#remote_theme: pages-themes/midnight@v0.2.0
-remote_theme: academic-jekyll-theme
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: academic-jekyll-theme
 
 title: preqon 
+
 description: This website contains my portfolio of work inside neuroscience, artificial intelligence and neurotechnology. 
+
+url: "https://preqon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: "" # the subpath of your site, e.g. /blog
