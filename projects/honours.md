@@ -1,4 +1,7 @@
-## Honours project - information transfer in mice
+---
+layout: page
+title: "Honours project - information transfer in mice"
+---
 
 My honours supervisor (A/Prof Joseph Lizier) has been studying how information is processed in natural systems like brains. He takes a unique information-theoretic approach (after Shannon entropy etc.) that allows us to observe brain activity and then estimate the amount of information that has been processed.
 
