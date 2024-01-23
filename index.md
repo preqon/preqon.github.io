@@ -6,7 +6,7 @@ title: "Home"
 Hi, I'm preqon. I needed a place to show off my career goals, body of work and
 general trajectory inside the world of intelligence so here it is.
 
-Here's a quick biography to explain my motivations.
+Here's a quick bio that hopefully explains my motivations.
 
 In high school, my biggest questions were in consciousness, leading me to
 pursue neuroscience. I was then drawn to the sci-fi allure of neurotechnology
@@ -14,7 +14,8 @@ and decided to add computer science as a second major. I fell in love
 with computer science for its own sake - particularly the genius behind 
 optimising information representation and transformation. In later semesters I
 ended up tutoring for USYD's School of Computer Science. I also elected to take
-courses in artificial intelligence and discovered computational neuroscience.
+courses in AI and discovered computational neuroscience at
+a similar time.
 While marvelling at human and nature's solutions to information processing, it 
 suddenly felt within reach for us to replicate or at least interact with 
 computation occurring in neural systems.
