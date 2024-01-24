@@ -4,7 +4,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 projects:
-- {name: 'Honours', url: 'honours'}
+- {name: 'Information transfer in mouse brains (honours project)', url: 'honours'}
 
 social:
 - {icon: 'github', link: 'https://github.com/preqon'}
