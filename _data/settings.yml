@@ -7,10 +7,8 @@ projects:
 - {name: 'Honours', url: 'honours'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/preqon'}
+- {icon: 'twitter', link: 'https://twitter.com/preqon1'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Preethom Pal', title: 'Graduate', department: 'School of Computer Science', institution: 'University of Sydney', institution_address: 'Camperdown, NSW', email: 'contact@preqon.xyz', image: 'assets/img/contact.png'}

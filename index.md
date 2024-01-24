@@ -6,7 +6,7 @@ title: "Home"
 Hi, I'm preqon. I needed a place to show off my career goals, body of work and
 general trajectory inside the world of intelligence so here it is.
 
-Here's a quick bio that hopefully explains my motivations.
+Here's a quick bio that hopefully explains why I'm drawn to brain-computer interfaces.
 
 In high school, my biggest questions were in consciousness, leading me to
 pursue neuroscience. I was then drawn to the sci-fi allure of neurotechnology
