@@ -3,26 +3,34 @@ layout: page
 title: "Honours project - information transfer in mouse brains"
 ---
 
-- Studied the neuroscientific background of mammalian visual processing.
-- Explored a dataset containing spike recordings from mice (recordings taken 
-using Neuropixel probes. i.e. local-field potential recordings)
-- Came up with statistical experiments under an information-theoretic approach 
+## Summary
+
+Surveyed the literature in mammalian visual processing.
+
+Explored a dataset containing spike recordings from mice (recordings taken 
+using Neuropixel probes. i.e. local-field potential recordings).
+
+Came up with statistical experiments under an information-theoretic approach 
 to investigate whether models of information transfer followed expectations from
 the neuroscience.
-    - Since neuroscience traditionally builds models of correlation in activity
+
+- Since neuroscience traditionally builds models of correlation in activity
     rather than models of quantified information.
-- Found that information transfers in mice visual cortices either followed 
+
+Found that information transfers in mice visual cortices either followed 
 expectations of hierarchical processing or were surprisingly homogenous.
-- Recommended future studies in task-related datasets to ascertain how much
+
+Recommended future studies in task-related datasets to ascertain how much
 information *relevant to a task* is being processed in a recorded brain area.
-- Recommended future work in building information-theoretic estimators tailored
+
+Recommended future work in building information-theoretic estimators tailored
 to neuronal population dynamics.
 
 ## Skills gained 
 
 - Solid grasp on the fundamentals of information theory.
 - Familiarity working with neural data (LFP recordings and spike trains).
-- Complex statistical inference in an information theoretic context.
+- Statistical inference in an information theoretic context.
 - Building complex statistically-driven models of a fundamental principle
 (in this case information transfer).
 - Extensive literature research. 
