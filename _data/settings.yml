@@ -5,6 +5,7 @@ menu:
 
 projects:
 - {name: 'Information transfer in mouse brains (honours project)', url: 'honours'}
+- {name: 'Spiking neural network for detecting speech emotion', url: 'speech-emotion-snn'}
 
 social:
 - {icon: 'github', link: 'https://github.com/preqon'}
