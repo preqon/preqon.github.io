@@ -16,11 +16,12 @@ Electrochemical interactions explain alot of material structure, and neuroscienc
 certainly attempts to explain conscious phenomena. (I actually find research
 directions here very promising; and I don't view the Hard Problem of 
 Consciousness as something that will be *too* hard).   
-- It's the third year of my B Sc. and I need to choose a career path.
-Neurotechnology, with its sci-fi allure, attracts me.
-- I do a little research into what disciplines are needed in neurotechnology;
+- In the third year of my B Sc., it became more pressing to choose a career path.
+Neurotechnology attracts me, at this stage honestly for its science-fiction-like
+allure.
+- I did a little research into what disciplines are needed in neurotechnology;
 I didn't have the best understanding, but computer science seemed like a
-reasonable choice. Only its too late to start a new major. So, I decide to
+reasonable choice. Only it was too late to start a new major. So, I decide to
 delay my graduation and turn my B Sc. into a combined degree, with B Advanced
 Computing.
 - I then fell in love with computer science for its own sake. Particularly,
@@ -29,11 +30,11 @@ transformation.
 - I start tutoring and assisting lecturers in the School of Computer Science.
 Three years of teaching students taught me how to study and how to explain a
 technical idea to anyone.
-- At the end of my combined degree I start taking courses in AI, ML and
+- Towards the end of my combined degree, I started taking courses in AI, ML and
 computational neuroscience. This really felt like the culmination of everything
 I had been studying. It was a beautiful feeling. I was in awe of information
 processing as it appears in computer systems, and as it appears in nature.
-- Its always been in the back of my mind to turn my passion for neuroscience
+- It's always been in the back of my mind to turn my passion for neuroscience
 and computer science into a craft; into the development of neurotechnology that
 can change lives.
 - Through experiences like attempting medical device development with a group of
@@ -51,8 +52,8 @@ projects.
 in consciousness, neural computation, and human intelligence augmentation.
 - Much further down the line, if ever, my skill set and domain knowledge
 might let me make a contribution to general human augmentation. Though please
-note this isn't an end goal of mine; I have no end goal, beyond bringing 
-given project to completion that utilises my skill set that helps people. 
+note this isn't an end goal of mine; I have no end goal, beyond bringing a 
+given project to completion, that utilises my skill set, and helps people. 
 
 --- 
 
