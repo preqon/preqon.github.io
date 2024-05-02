@@ -1,7 +1,7 @@
 title: preqon 
 
 description: "Neuroscience and computer science graduate from the University of 
-Sydney. Seeking opportunities in brain-computer interfaces." 
+Sydney. Seeking opportunities in R&D teams in neurotechnology." 
 
 url: "https://preqon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,4 +9,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 sass:
   sass_dir: _sass 
-  style: compressed # compresesd or expanded 
+  style: compressed # compressed or expanded 
