@@ -11,7 +11,7 @@ in R&D for neurotechnology for medical applications.
 Here's a bio that explains why.
 
 Leaving high school, I wanted to understand the structure of materials
-around me and what consciousness was. I pursued chemistry and neuroscience. 
+around me and what consciousness is. I pursued chemistry and neuroscience. 
 Electrochemical interactions explain alot of material structure, and neuroscience
 certainly attempts to explain conscious phenomena. (I actually find research
 directions here very promising; and I don't view the Hard Problem of 
@@ -19,8 +19,9 @@ Consciousness as something that will be *too* hard).
 
 
 In the third year of my B Sc., it became more pressing to choose a career path.
-Neurotechnology attracts me, at this stage honestly for its science-fiction-like
-allure. I did a little research into what disciplines are needed in neurotechnology;
+Neurotechnology attracted me, (at this stage, it was honestly for its 
+science-fiction-like allure). I did a little research into what disciplines are
+needed in neurotechnology;
 I didn't have the best understanding, but computer science seemed like a
 reasonable choice. Only it was too late to start a new major. So, I decide to
 delay my graduation and turn my B Sc. into a combined degree, with B Advanced
@@ -30,7 +31,7 @@ I then fell in love with computer science for its own sake. Particularly,
 the delight in engineering an optimal information representation and its
 transformation. I start tutoring and assisting lecturers in the School of 
 Computer Science. Three years of teaching students taught me how to study and 
-how to explain a technical idea people of all educational backgrounds.
+how to explain a technical idea to people of all educational backgrounds.
 
 Towards the end of my combined degree, I started taking courses in AI, ML and
 computational neuroscience. This really felt like the culmination of everything
