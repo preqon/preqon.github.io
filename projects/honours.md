@@ -10,9 +10,10 @@ title: "Honours project - information transfer in mouse brains"
 using Neuropixel probes. i.e. local-field potential recordings).
 3. Came up with statistical experiments under an information-theoretic approach
 to investigate whether models of information transfer followed expectations from
-the neuroscience. Since neuroscience traditionally builds models of correlation
-in activity rather than models of quantified information.
-4. Found that information transfers in mice visual cortices either followed 
+the neuroscience. We suspected there might be discrepancies, since neuroscience
+traditionally builds models of functional connectivity/effective connectivity using
+correlation in activity rather than models of quantified information.
+4. Found that information transfers in mice visual cortices either followed the 
 expectations of hierarchical processing or were surprisingly homogenous.
 5. Recommended future studies in task-related datasets to ascertain how much
 information *relevant to a task* is being processed in a recorded brain area.
@@ -21,12 +22,14 @@ to neuronal population dynamics.
 
 ## Skills gained 
 
-- Solid grasp on the fundamentals of information theory.
+- Fundamentals of information theory.
 - Familiarity working with neural data (LFP recordings and spike trains).
 - Statistical inference in an information theoretic context.
 - Building complex statistically-driven models of a fundamental principle
 (in this case information transfer).
 - Extensive literature research. 
+- Inter-disciplinary communication (worked with neuroscientists, physicists and
+computer scientists).
 
 ## Longer description
 
@@ -38,7 +41,30 @@ Broadly speaking the goal of the project was to investigate whether information 
 
 Quantification of information processing can help address large questions in neuroscience like "how does a particular neuronal population encode information relevant to the task being performed?"
 
-Personally, I find the above question particularly exciting because it points to an engineering opportunity. If nature has provided a beautiful machine that stores, transfers and modifies information, why can't we build something similar? Or why can't we build a system that at least *interfaces* with nature's machines, extracting and interacting with the information stored there?
-
 Briefly, the project found information flows that either matched expectations inside the visual cortex or were unexpectedly homogenous between cortical layers. This points to the versatility of how information can be represented and processed across structural connections that are relatively static. We suggested that future studies in neural dynamics during tasks and behaviours can adopt our information-theoretic approach to assess when, where and how much information relevant to a task is being processed inside a recorded brain area.
 
+We also suggested that future studies can look at building information-theoretic
+estimators that rely on more emergent structures in dynamical systems; like
+bursts and oscillations. This would quantify information processing at various
+analytical levels of the dynamical system, not only of spike times of neuronal 
+processes. Work with this flavour is being done at the University of Sydney,
+as a collaboration between three groups (including Joe's).
+- [Ben Fulcher](https://dynamicsandneuralsystems.github.io/)
+- [Mac Shine](https://shine-lab.org/research/)
+- [Joe Lizier](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/joseph-lizier.html)
+
+I strongly recommend checking them out.
+
+# Submitted thesis
+
+<object data="{site.github.url}" type="application/pdf" width="700px" height="700px">
+    <embed src="{site.github.url}">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+# Code
+
+You can find the code for this project on my GitHub at 
+[spikes-information-transfer](https://github.com/preqon/spikes-information-transfer).
