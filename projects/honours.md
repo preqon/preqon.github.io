@@ -11,8 +11,8 @@ using Neuropixel probes. i.e. local-field potential recordings).
 3. Came up with statistical experiments under an information-theoretic approach
 to investigate whether models of information transfer followed expectations from
 the neuroscience. We suspected there might be discrepancies, since neuroscience
-traditionally builds models of functional connectivity/effective connectivity using
-correlation in activity rather than models of quantified information.
+traditionally builds models of functional connectivity/effective connectivity 
+using correlation in activity rather than models of quantified information.
 4. Found that information transfers in mice visual cortices either followed the 
 expectations of hierarchical processing or were surprisingly homogenous.
 5. Recommended future studies in task-related datasets to ascertain how much
@@ -80,9 +80,13 @@ I strongly recommend checking them out.
 
 # Submitted thesis
 
-<object data="{site.github.url}" type="application/pdf" width="700px" height="700px">
-    <embed src="{site.github.url}">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{site.github.url}">Download PDF</a>.</p>
+<object data="{{site.github.url}}/assets/pdf/honours-thesis.pdf"
+type="application/pdf" width="700px" height="700px">
+    <embed src="{{site.github.url}}/assets/pdf/honours-thesis.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it:
+        <a href="{{site.github.url}}/assets/pdf/honours-thesis.pdf">
+            Download PDF</a>.
+    </p>
     </embed>
 </object>
 
