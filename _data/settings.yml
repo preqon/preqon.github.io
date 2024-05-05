@@ -13,4 +13,8 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/preqon1'}
 
 contacts:
-- {name: 'Preethom Pal', email: 'pal.pree@gmail.com', image: 'assets/img/contact.jpg'}
+- {name: 'Preethom Pal', 
+email: 'pal.pree@gmail.com',
+twitter: '@preqon1',
+github: 'preqon',
+image: 'assets/img/contact.jpg'}

@@ -5,16 +5,16 @@ title: "Honours project - information transfer in mouse brains"
 
 ## Summary
 
-1. Surveyed the literature in mammalian visual processing.
-2. Studied methods from information theory, that quantify natural information
-processing.
-2. Explored a dataset containing spike recordings from mice (recordings taken 
-using Neuropixel probes. i.e. local-field potential recordings).
+1. Studied the literature in mammalian visual processing.
+2. Studied methods, from information theory, that are able quantify natural
+information processing.
+2. Explored a dataset containing Neuropixels (local field potential) recordings
+of neural activity in the primary visual cortex, taken from mice.
 3. Came up with statistical experiments under an information-theoretic approach
 to investigate whether models of information transfer followed expectations from
 the neuroscience. We suspected there might be discrepancies, since neuroscience
 traditionally builds models of functional connectivity/effective connectivity 
-using correlation in activity, rather than models of quantified information.
+using correlation in activity, rather than quantified information.
 4. Found that information transfers in mice visual cortices either followed the 
 expectations of hierarchical processing or were surprisingly homogenous.
 5. Recommended future studies in task-related datasets to ascertain how much
