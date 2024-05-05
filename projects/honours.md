@@ -31,13 +31,15 @@ to neuronal population dynamics.
 computer scientists).
 - Neuroscientific research.
 - Time-series analysis.
-- Neural data analysis (LFP recordings and spike trains).
+- Neural signal processing (LFP recordings and spike trains).
 - Applications of 
     - information theory.
     - complex systems modelling.
 - Statistical inference in an information theoretic/dynamical systems context.
-- How to design an empirical model of a fundamental principle (in this case,
-that fundamental principle was information transfer).
+    - This is readily transferable to signal detection.
+- How to design an empirical model of a fundamental physical principle
+occurring in an observed system (in this case, that fundamental principle was
+information transfer).
 
 ## Longer description
 
