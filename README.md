@@ -9,8 +9,13 @@ Add a new project by adding a new markdown file in `projects/`. Then go to
 
 Add a header item in `_data/settings.yml`.
 
-Add cv experience in `_data/cv/experience`
+Add cv experience in `_data/cv/experience`.
 
-Add contact information in `_data/settings.yml`
+Add education in `_data/cv/education`.
 
-Add socials (footer) in `_data/settings.yml`.
+Add contact information in `_data/settings.yml`.
+
+Add socials (footer) information in `_data/settings.yml`.
+
+Add a post by adding a new markdown file in `_posts`. File name should begin 
+with the date (YY-MM-DD).
