@@ -1,4 +1,5 @@
 menu:
+- {name: 'about', url: '/'}
 - {name: 'projects', url: '/projects'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}

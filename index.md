@@ -6,7 +6,7 @@ title: "Home"
 Hi, I'm preqon. 
 
 I'm a graduate in neuroscience and computer science, seeking opportunities
-in R&D for neurotechnology for medical applications.
+in neurotechnology R&D for medical applications.
 
 Here's a bio that explains why.
 
