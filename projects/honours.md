@@ -6,13 +6,15 @@ title: "Honours project - information transfer in mouse brains"
 ## Summary
 
 1. Surveyed the literature in mammalian visual processing.
+2. Studied methods from information theory, that quantify natural information
+processing.
 2. Explored a dataset containing spike recordings from mice (recordings taken 
 using Neuropixel probes. i.e. local-field potential recordings).
 3. Came up with statistical experiments under an information-theoretic approach
 to investigate whether models of information transfer followed expectations from
 the neuroscience. We suspected there might be discrepancies, since neuroscience
 traditionally builds models of functional connectivity/effective connectivity 
-using correlation in activity rather than models of quantified information.
+using correlation in activity, rather than models of quantified information.
 4. Found that information transfers in mice visual cortices either followed the 
 expectations of hierarchical processing or were surprisingly homogenous.
 5. Recommended future studies in task-related datasets to ascertain how much
@@ -22,14 +24,20 @@ to neuronal population dynamics.
 
 ## Skills gained 
 
-- Fundamentals of information theory.
-- Familiarity working with neural data (LFP recordings and spike trains).
-- Statistical inference in an information theoretic context.
-- Building complex statistically-driven models of a fundamental principle
-(in this case information transfer).
+- Scientific writing.
+- Technical documentation.
 - Extensive literature research. 
 - Inter-disciplinary communication (worked with neuroscientists, physicists and
 computer scientists).
+- Neuroscientific research.
+- Time-series analysis.
+- Neural data analysis (LFP recordings and spike trains).
+- Applications of 
+    - information theory.
+    - complex systems modelling.
+- Statistical inference in an information theoretic/dynamical systems context.
+- How to design an empirical model of a fundamental principle (in this case,
+that fundamental principle was information transfer).
 
 ## Longer description
 
