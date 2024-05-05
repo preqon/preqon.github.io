@@ -6,7 +6,8 @@ menu:
 
 projects:
 - {name: 'Information transfer in mouse brains (honours project)', url: 'honours'}
-- {name: 'Spiking neural network for detecting speech emotion', url: 'speech-emotion-snn'}
+- {name: 'Spiking neural network for detecting speech emotion (incomplete)',
+url: 'speech-emotion-snn'}
 
 social:
 - {icon: 'github', link: 'https://github.com/preqon'}
@@ -16,5 +17,4 @@ contacts:
 - {name: 'Preethom Pal', 
 email: 'pal.pree@gmail.com',
 twitter: '@preqon1',
-github: 'preqon',
 image: 'assets/img/contact.jpg'}
