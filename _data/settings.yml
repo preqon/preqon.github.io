@@ -13,10 +13,4 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/preqon1'}
 
 contacts:
-- {name: 'Preethom Pal',
-title: '', 
-department: '', 
-institution: '',
-institution_address: '', 
-email: 'pal.pree@gmail.com', 
-image: 'assets/img/contact.jpg'}
+- {name: 'Preethom Pal', email: 'pal.pree@gmail.com', image: 'assets/img/contact.jpg'}
