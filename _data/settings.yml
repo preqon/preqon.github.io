@@ -13,4 +13,10 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/preqon1'}
 
 contacts:
-- {name: 'Preethom Pal', title: 'Graduate', department: 'School of Computer Science', institution: 'University of Sydney', institution_address: 'Camperdown, NSW', email: 'contact@preqon.xyz', image: 'assets/img/contact.png'}
+- {name: 'Preethom Pal',
+title: '', 
+department: '', 
+institution: '',
+institution_address: '', 
+email: 'pal.pree@gmail.com', 
+image: 'assets/img/contact.jpg'}

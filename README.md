@@ -11,3 +11,4 @@ Add a header item in `_data/settings.yml`.
 
 Add cv experience in `_data/cv/experience`
 
+Add contact information in `_data/settings.yml`
