@@ -47,7 +47,7 @@ shiny new devices and the needs that patients suffering neurological illnesses
 actually have.
 
 My goal now is to understand patient needs, and apply my domain of 
-knowledge/skillset to make a functional improvement to their lives; wherever
+knowledge/skills to make a functional improvement to their lives; wherever
 they need it. That way, I can turn my inherent curiosities, into a craft that
 serves people, and grow my passion for that craft.
 
