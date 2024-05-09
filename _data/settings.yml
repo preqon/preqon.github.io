@@ -9,6 +9,7 @@ projects:
 url: 'honours'}
 - {name: 'Spiking neural network for detecting speech emotion (incomplete)',
 url: 'speech-emotion-snn'}
+- {name: 'Hackathon - BR41N.io 2024', url: 'br41n.io' }
 - {name: 'PHYS4015 course notes', url: 'phys4015' }
 - {name: 'COMP5328 course notes', url: 'comp5328' }
 
