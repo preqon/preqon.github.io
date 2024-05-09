@@ -5,9 +5,12 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 projects:
-- {name: 'Information transfer in mouse brains (honours project)', url: 'honours'}
+- {name: 'Information transfer in mouse brains (honours project)',
+url: 'honours'}
 - {name: 'Spiking neural network for detecting speech emotion (incomplete)',
 url: 'speech-emotion-snn'}
+- {name: 'PHYS4015 course notes', url: 'phys4015' }
+- {name: 'COMP5328 course notes', url: 'comp5328' }
 
 social:
 - {icon: 'github', link: 'https://github.com/preqon'}
